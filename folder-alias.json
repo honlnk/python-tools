@@ -1,0 +1,8 @@
+{
+    "levenshtein_explainer.py": {
+        "description": "莱文斯坦距离解释器"
+    },
+    "word_extractor.py": {
+        "description": "单词提取器"
+    }
+}
